@@ -1,0 +1,14 @@
+name: r_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base=4.2.2
+  - bioconductor-dada2
+  - bioconductor-phyloseq
+  - bioconductor-biostrings
+  - r-tidyverse
+  - r-knitr
+  - r-rmarkdown
+  - r-optparse
