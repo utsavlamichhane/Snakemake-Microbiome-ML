@@ -1,6 +1,6 @@
 A Snakemake workflow for end-to-end microbiome machine learning analyses. A beginner-friendly pipeline that:
 
-- Starts from raw FASTQ → runs DADA2 & taxonomy assignment (in R).
+- Starts from raw FASTQ → runs dada2 & taxonomy assignment (in R).
 
 - Extracts feature tables and merges with user metadata.
 
