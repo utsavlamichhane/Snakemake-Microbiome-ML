@@ -1,6 +1,6 @@
 I am assuming you already have the config.yaml from the SetupEnvironment.md 
 
-So in the activated terminal environment (Python):
+So in the activated terminal environment (Python 3.9):
 
 ```
 configfile: "config.yaml"
